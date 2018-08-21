@@ -14,7 +14,7 @@
     "yeoman-generator"
   ],
   "files": [
-    "app"
+    "generators"
   ],
   "author": "SL",
   "license": "MIT",
