@@ -1,0 +1,28 @@
+{
+  "name": "generator-dp-react-demo",
+  "version": "1.0.0",
+  "description": "yeoman-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moon-R/generator-dp-react-demo.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "files": [
+    "app"
+  ],
+  "author": "SL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moon-R/generator-dp-react-demo/issues"
+  },
+  "homepage": "https://github.com/Moon-R/generator-dp-react-demo#readme",
+  "dependencies": {
+    "yeoman-generator": "^3.1.1"
+  }
+}
